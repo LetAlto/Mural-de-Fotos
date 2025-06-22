@@ -1,1 +1,52 @@
-# Mural de Fotos
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mural de Fotos</title>
+    <link href="css./bootstrap.css" rel="stylesheet">
+</head>
+
+
+<body style="background-color: rgb(221, 142, 228);" >
+
+    <header >
+        <img src="flores.png" class="floresh" >
+        <img src="flores.png" class="floresh" >
+    </header>
+
+   
+   
+    <main>
+        <div style="display: inline-flex">
+
+        <div style="text-align: left;">
+        <img src="flores v.png" class="floresv" >
+        </div>
+               
+        <div style="text-align: center; cursor: pointer;"> 
+            <h1> PARA O MEU MELHOR AMIGO!</h1>
+            <h2> Espero que tenhamos muito mais fotos juntos, ou para podermos nos lembrar do que somos, ou para saber o que nós ja fomos </h2>
+            <img src="Foto 1.jpeg" width="51.5%">
+            <img src="Foto 3.jpeg" width="39%">
+            <img src="Foto 2.jpeg" width="30%">
+            <img src="Foto 4.jpeg" width="30%" >
+            <img src="Foto 5.jpeg" width="30%" >
+        </div>
+
+        <div style="text-align: right; margin-right: 40px;">
+            <img src="flores v.png" class="floresv" >
+        </div>
+        
+        </div>
+        
+       
+    </main>
+  
+  <footer > 
+    <img src="flores.png" class="floresh" >
+    <img src="flores.png" class="floresh" >
+  </footer>
+
+ 
+</body> 
+</html>
