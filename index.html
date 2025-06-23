@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Mural de Fotos</title>
-    <link href="css./bootstrap.css" rel="stylesheet">
+    <link href="bootstrap.css" rel="stylesheet">
 </head>
 
 
